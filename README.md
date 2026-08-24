@@ -1,5 +1,5 @@
 # XDI
-[![Build status](https://ci.appveyor.com/api/projects/status/github/reg2k/xdi?branch=master&svg=true)](https://ci.appveyor.com/project/reg2k/xdi)
+[![Build status](https://ci.appveyor.com/api/projects/status/hh85np5879x7gruy?svg=true)](https://ci.appveyor.com/project/Kraken-collab/xdi)
 
 The Extended Dialogue Interface (XDI) is a community framework and engine modification for Fallout 4 that removes the hardcoded 4-option limit on dialogue and adds native support for any number of player dialogue options.
 
